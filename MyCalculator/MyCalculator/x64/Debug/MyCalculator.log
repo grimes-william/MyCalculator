@@ -1,0 +1,5 @@
+﻿  MyForm.cpp
+C:\dev\MyCalculator\MyCalculator\MyForm.h(234,23): warning C4101: 'ex': unreferenced local variable
+C:\dev\MyCalculator\MyCalculator\MyForm.cpp(8,1): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  MyCalculator.vcxproj -> C:\dev\MyCalculator\x64\Debug\MyCalculator.exe
